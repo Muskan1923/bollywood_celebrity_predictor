@@ -40,11 +40,8 @@ The repository is organized as follows:
 
 ---
 
-## ⚙ Installation & Setup  
-
-Follow these steps to set up and run the project locally:  
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/bollywood-celebrity-predictor.git
+git clone https://github.com/muskan1923/bollywood-celebrity-predictor.git
 cd bollywood-celebrity-predictor
